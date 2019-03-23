@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Feedie</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="login">Login</string>
+    <string name="username">Name</string>
+    <string name="register_phone_number">Phone Number</string>
+    <string name="create_account">Create Account</string>
+    <string name="password1">Password</string>
+    <string name="logout">Logout</string>
+    <string name="orphanage_title">Title</string>
+    <string name="email_id">Email id</string>
+
+    <string-array name="details">
+        <item>Please select a item</item>
+        <item>Meals</item>
+        <item>Breakfast</item>
+        <item>Snacks</item>
+        <item>Drinks</item>
+        <item>More than 1 type of items</item>
+    </string-array>
+</resources>
